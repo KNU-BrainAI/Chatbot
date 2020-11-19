@@ -8,6 +8,8 @@ KoGPT2를 간단하게 설명하면 GPT2는 Transformer 기반의 답변 생성 
 ## 2. Chatbot 아키텍쳐 소개
 저희는 Github에 올려져있는 Kogpt2-chatbot 모델을 사용했습니다.
 (깃허브 출처: https://github.com/haven-jeon/KoGPT2-chatbot)
+
+
 ![noname02](https://user-images.githubusercontent.com/57859679/99680189-1fc4a300-2ac0-11eb-9f99-723a559201b0.png)
 
 *챗봇 훈련시 KoGPT2에 3가지 데이터가 들어갑니다. 첫 번째는 사용자의 발화데이터, 두 번째는 챗봇 사용의 응답의 감정레이블(일상다반사:0, 부정:1, 긍정:2), 세 번째로는 사용자의 발화에 대한 응답 데이터를 넣습니다. 그러면 KoGPT2에 나온 응답과 본래의 응답데이터를 비교하여 나온 손실을 감소시키는 방향으로 챗봇을 학습시켰습니다.
