@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot
 ## 1. Kogpt2 모델 소개
 ![noname01](https://user-images.githubusercontent.com/57859679/99677988-acba2d00-2abd-11eb-9ef2-5be6d965d2cb.png)
 
