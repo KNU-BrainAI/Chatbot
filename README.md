@@ -1,5 +1,11 @@
 # Chatbot
-## 1. Kogpt2 모델 소개
+
+## 0. 참가 대회 소개
+
+https://dreamai.kr/
+
+
+## 1. Ko-GPT2 모델 소개
 ![noname01](https://user-images.githubusercontent.com/57859679/99677988-acba2d00-2abd-11eb-9ef2-5be6d965d2cb.png)
 
 이번 대회의 목적은 open-domain에서 대화할 수 있는 챗봇을 만드는 것입니다. 그러기 위해서는 제한적인 기능에 특화된 모델보다는 다양하고 많은 데이터로 학습된 범용적인 모델을 사용해야한다. 따라서 저희 팀은 대용량의 데이터로 미리 학습된 KoGPT2를 사용하였습니다.
