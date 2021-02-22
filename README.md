@@ -2,7 +2,7 @@
 
 ## 0. 참가 대회 소개
 
-GISTxLG전자 꿈꾸는 AI 경진대회
+GISTxLG전자 DREAM_AI SMART DEVICE 경진대회
 https://dreamai.kr/
 
 
